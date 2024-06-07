@@ -26,7 +26,7 @@ function App() {
         <SwiperSlide>davron</SwiperSlide>
         <SwiperSlide>ramazon</SwiperSlide>
         <SwiperSlide>yahyo</SwiperSlide>
-        <SwiperSlide>javohiz</SwiperSlide>
+        <SwiperSlide>javohir</SwiperSlide>
         <SwiperSlide>temuz</SwiperSlide>
         <SwiperSlide>ramazon </SwiperSlide>
       </Swiper>
